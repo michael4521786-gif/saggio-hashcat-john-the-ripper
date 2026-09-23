@@ -7,6 +7,10 @@
 
 > Versione in inglese: [README_EN.md](./README_EN.md)
 
+<p align="center">
+  <img src="./assets/cover.png" alt="Copertina del saggio" width="520">
+</p>
+
 ## Panoramica
 
 Questo repository contiene un saggio tecnico e accademico dedicato a Hashcat e John the Ripper, con un'analisi orientata alla sicurezza difensiva, alla formazione e alla valutazione autorizzata delle password.
@@ -29,12 +33,6 @@ Questo repository contiene un saggio tecnico e accademico dedicato a Hashcat e J
 - [Licenza](#licenza)
 - [Supporta il progetto](#supporta-il-progetto)
 - [Citazione](#citazione)
-
-## Copertina
-
-<p align="center">
-  <img src="./assets/cover.png" alt="Copertina del saggio" width="520">
-</p>
 
 ## Informazioni sul documento
 
