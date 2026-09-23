@@ -12,5 +12,3 @@
 
 4. OWASP Foundation. Authentication Cheat Sheet.  
    https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html
-
-5. Inserire qui eventuali ulteriori fonti utilizzate nel saggio.
