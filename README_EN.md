@@ -2,9 +2,33 @@
 
 [![Language](https://img.shields.io/badge/Language-English-blue.svg)](./README_EN.md)
 [![Document](https://img.shields.io/badge/Document-PDF-green.svg)](./pdf/Saggio_Hashcat_John_the_Ripper_revisione.pdf)
-[![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![Status](https://img.shields.io/badge/Status-Published-success.svg)](./README_EN.md)
+[![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg)](./LICENSE)
 
 > Italian version: [README.md](./README.md)
+
+## Overview
+
+This repository contains a technical and academic essay about Hashcat and John the Ripper, with a focus on defensive security, education, and authorized password assessment.
+
+> **Responsible use:** the tools described must be used only on systems, accounts, and data for which explicit authorization is available.
+
+## Contents
+
+- [Cover](#cover)
+- [Document information](#document-information)
+- [Abstract](#abstract)
+- [Keywords](#keywords)
+- [Topics](#topics)
+- [Full document](#full-document)
+- [Documentation](#documentation)
+- [Repository structure](#repository-structure)
+- [Responsibility and safe use](#responsibility-and-safe-use)
+- [Why this project](#why-this-project)
+- [Author](#author)
+- [License](#license)
+- [Support the project](#support-the-project)
+- [Citation](#citation)
 
 ## Cover
 
@@ -22,14 +46,15 @@
 | **Language** | English |
 | **Date** | September 23, 2026 |
 | **Type** | Technical essay and academic report |
+| **Status** | Published and available for consultation |
 
 ## Abstract
 
-This paper presents Hashcat and John the Ripper, two tools widely used in the field of password auditing and credential security assessment.
+This paper presents Hashcat and John the Ripper, two tools widely used in password auditing and credential security assessment.
 
 The document analyzes the role of hash functions, the main characteristics of both tools, possible usage scenarios, and the methodological and technical differences between the two solutions.
 
-The goal is to provide a defensive-security-oriented overview, aimed at training and authorized evaluation of password robustness. The described tools must be used exclusively on systems, accounts, and data for which explicit authorization is available.
+The goal is to provide a defensive-security-oriented overview for education and authorized password-robustness assessment.
 
 ## Keywords
 
@@ -44,7 +69,7 @@ The goal is to provide a defensive-security-oriented overview, aimed at training
 - Defensive security
 - Credential assessment
 
-## Contents
+## Topics
 
 - Introduction to password auditing
 - Hash functions and password protection
@@ -53,13 +78,22 @@ The goal is to provide a defensive-security-oriented overview, aimed at training
 - Comparison between the two tools
 - Performance and operational aspects
 - Ethical and legal considerations
-- Strategies to improve password security
+- Strategies to improve credential security
 
 ## Full document
 
 The complete essay is available in PDF format:
 
 [**Download the PDF**](./pdf/Saggio_Hashcat_John_the_Ripper_revisione.pdf)
+
+## Documentation
+
+- [Abstract](./docs/abstract.md)
+- [Keywords](./docs/keywords.md)
+- [Methodology](./docs/methodology.md)
+- [Cover](./docs/cover.md)
+- [Bibliography](./references/bibliography.md)
+- [Citation data](./CITATION.cff)
 
 ## Repository structure
 
@@ -68,6 +102,7 @@ The complete essay is available in PDF format:
 ├── README.md
 ├── README_EN.md
 ├── CITATION.cff
+├── LICENSE
 ├── .gitignore
 ├── docs/
 │   ├── abstract.md
@@ -117,6 +152,8 @@ GitHub profile: [@michael4521786-gif](https://github.com/michael4521786-gif)
 
 This repository’s documentation is distributed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) license, unless otherwise stated.
 
+For complete details, see the [LICENSE](./LICENSE) file.
+
 ## ☕ Support the project
 
 If you found this project useful and would like to support its development, you can buy me a coffee via PayPal.
@@ -132,4 +169,4 @@ If you found this project useful and would like to support its development, you 
 
 ## Citation
 
-To cite this work, you can use the file [`CITATION.cff`](./CITATION.cff).
+To cite this work, see the [`CITATION.cff`](./CITATION.cff) file.
