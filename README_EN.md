@@ -77,7 +77,8 @@ The complete essay is available in PDF format:
 ├── pdf/
 │   └── Saggio_Hashcat_John_the_Ripper_revisione.pdf
 ├── assets/
-│   └── cover.png
+│   ├── cover.png
+│   └── paypal_qr.png
 └── references/
     └── bibliography.md
 ```
@@ -95,6 +96,17 @@ Hashcat and John the Ripper must be used only:
 
 They must not be used to access systems improperly, recover others' credentials, or violate anyone's privacy.
 
+## Why this project
+
+This repository was created to present, in an organized way, a technical essay about password analysis and a comparison of two important tools in the field of information security.
+
+The aim is not to provide instructions for unauthorized attacks, but to offer a technical, methodological, and educational context for understanding:
+
+- how hashes work;
+- the role of password auditing;
+- the strengths and limitations of Hashcat and John the Ripper;
+- the importance of responsible, authorized defensive security.
+
 ## Author
 
 **Vincenzo La Rocca**
@@ -104,6 +116,19 @@ GitHub profile: [@michael4521786-gif](https://github.com/michael4521786-gif)
 ## License
 
 This repository’s documentation is distributed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) license, unless otherwise stated.
+
+## ☕ Support the project
+
+If you found this project useful and would like to support its development, you can buy me a coffee via PayPal.
+
+<p align="center">
+  <img src="./assets/paypal_qr.png" alt="PayPal QR code to support the project" width="260">
+</p>
+
+<p align="center">
+  <strong>Scan the QR code with the PayPal app</strong><br>
+  Thank you for your support!
+</p>
 
 ## Citation
 
