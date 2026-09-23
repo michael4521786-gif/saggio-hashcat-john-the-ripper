@@ -105,20 +105,6 @@ GitHub profile: [@michael4521786-gif](https://github.com/michael4521786-gif)
 
 This repository’s documentation is distributed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) license, unless otherwise stated.
 
-## ☕ Support the project
-
-If you found this project useful and would like to support its development, you can buy me a coffee with Bitcoin.
-
-**Bitcoin address**
-
-```text
-bc1qq7yj4sru9zrda613uz56mt6sr9qcw7584ae3eg
-```
-
-[₿ Send a Bitcoin donation](bitcoin:bc1qq7yj4sru9zrda613uz56mt6sr9qcw7584ae3eg)
-
-Thank you for your support!
-
 ## Citation
 
 To cite this work, you can use the file [`CITATION.cff`](./CITATION.cff).
