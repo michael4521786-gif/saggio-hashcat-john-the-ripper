@@ -7,6 +7,10 @@
 
 > Italian version: [README.md](./README.md)
 
+<p align="center">
+  <img src="./assets/cover.png" alt="Cover image" width="520">
+</p>
+
 ## Overview
 
 This repository contains a technical and academic essay about Hashcat and John the Ripper, with a focus on defensive security, education, and authorized password assessment.
@@ -29,12 +33,6 @@ This repository contains a technical and academic essay about Hashcat and John t
 - [License](#license)
 - [Support the project](#support-the-project)
 - [Citation](#citation)
-
-## Cover
-
-<p align="center">
-  <img src="./assets/cover.png" alt="Cover image" width="520">
-</p>
 
 ## Document information
 
