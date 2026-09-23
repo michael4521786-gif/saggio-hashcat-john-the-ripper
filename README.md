@@ -77,7 +77,8 @@ Il saggio completo è disponibile in formato PDF:
 ├── pdf/
 │   └── Saggio_Hashcat_John_the_Ripper_revisione.pdf
 ├── assets/
-│   └── cover.png
+│   ├── cover.png
+│   └── paypal_qr.png
 └── references/
     └── bibliography.md
 ```
@@ -115,6 +116,19 @@ Profilo GitHub: [@michael4521786-gif](https://github.com/michael4521786-gif)
 ## Licenza
 
 Il materiale documentale di questo repository è distribuito secondo i termini della licenza [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/), salvo diversa indicazione.
+
+## ☕ Supporta il progetto
+
+Se hai trovato utile questo progetto e desideri sostenerne lo sviluppo, puoi offrire un caffè tramite PayPal.
+
+<p align="center">
+  <img src="./assets/paypal_qr.png" alt="Codice QR PayPal per sostenere il progetto" width="260">
+</p>
+
+<p align="center">
+  <strong>Scansiona il codice QR con l'app PayPal</strong><br>
+  Grazie per il tuo supporto!
+</p>
 
 ## Citazione
 
