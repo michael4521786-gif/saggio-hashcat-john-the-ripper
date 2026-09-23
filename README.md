@@ -2,6 +2,7 @@
 
 [![Lingua](https://img.shields.io/badge/Lingua-Italiano-blue.svg)](./README.md)
 [![Documento](https://img.shields.io/badge/Documento-PDF-green.svg)](./pdf/Saggio_Hashcat_John_the_Ripper_revisione.pdf)
+[![Stato](https://img.shields.io/badge/Stato-Pubblicato-success.svg)](./README.md)
 [![Licenza](https://img.shields.io/badge/Licenza-CC%20BY--NC--SA%204.0-orange.svg)](./LICENSE)
 
 > Versione in inglese: [README_EN.md](./README_EN.md)
@@ -10,7 +11,7 @@
 
 Questo repository contiene un saggio tecnico e accademico dedicato a Hashcat e John the Ripper, con un'analisi orientata alla sicurezza difensiva, alla formazione e alla valutazione autorizzata delle password.
 
-> Uso responsabile: gli strumenti descritti devono essere utilizzati esclusivamente su sistemi, account e dati per i quali si possiede un'autorizzazione esplicita.
+> **Uso responsabile:** gli strumenti descritti devono essere utilizzati esclusivamente su sistemi, account e dati per i quali si possiede un'autorizzazione esplicita.
 
 ## Indice
 
