@@ -131,9 +131,7 @@ Non devono essere utilizzati per accedere abusivamente a sistemi, recuperare cre
 
 ## Perché questo progetto
 
-Questo repository nasce con l'obiettivo di raccogliere e presentare in modo ordinato un saggio tecnico sull'analisi delle password e sul confronto tra due strumenti fondamentali nel campo della sicurezza informatica.
-
-L'intento non è fornire istruzioni per attacchi non autorizzati, ma offrire un contesto tecnico, metodologico e culturale utile per comprendere il funzionamento degli hash, il ruolo del password auditing, i vantaggi e i limiti di Hashcat e John the Ripper e l'importanza di una sicurezza difensiva, responsabile e autorizzata.
+Questo repository presenta un saggio tecnico sull'analisi delle password e sul confronto tra Hashcat e John the Ripper in un contesto educativo, metodologico e di sicurezza difensiva autorizzata.
 
 ## Autore
 
@@ -143,13 +141,13 @@ Profilo GitHub: [@michael4521786-gif](https://github.com/michael4521786-gif)
 
 ## Licenza
 
-Il materiale documentale di questo repository è distribuito secondo i termini della licenza [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/), salvo diversa indicazione.
+Il materiale documentale è distribuito secondo i termini della licenza [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/), salvo diversa indicazione.
 
 Per i dettagli completi, consulta il file [LICENSE](./LICENSE).
 
 ## ☕ Supporta il progetto
 
-Se hai trovato utile questo progetto e desideri sostenerne lo sviluppo, puoi offrire un caffè tramite PayPal.
+Se hai trovato utile questo progetto e desideri sostenerne lo sviluppo, puoi offrire un caffè tramite PayPal o Bitcoin.
 
 <p align="center">
   <img src="./assets/paypal_qr.png" alt="Codice QR PayPal per sostenere il progetto" width="260">
@@ -159,6 +157,16 @@ Se hai trovato utile questo progetto e desideri sostenerne lo sviluppo, puoi off
   <strong>Scansiona il codice QR con l'app PayPal</strong><br>
   Grazie per il tuo supporto!
 </p>
+
+### Bitcoin
+
+Per supportare il progetto tramite Bitcoin, invia la donazione al seguente indirizzo:
+
+```text
+bc1qq7yj4sru9zrda6l3uz56mt6sr9qcw7584ae3eg
+```
+
+Verifica sempre l'indirizzo prima di confermare la transazione.
 
 ## Citazione
 
