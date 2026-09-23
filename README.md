@@ -11,6 +11,10 @@
   <img src="./assets/cover.png" alt="Copertina del saggio" width="520">
 </p>
 
+<p align="center">
+  <a href="./pdf/Saggio_Hashcat_John_the_Ripper_revisione.pdf"><img src="https://img.shields.io/badge/Scarica%20il%20PDF-Disponibile-green.svg" alt="Scarica il PDF"></a>
+</p>
+
 ## Panoramica
 
 Questo repository contiene un saggio tecnico e accademico dedicato a Hashcat e John the Ripper, con un'analisi orientata alla sicurezza difensiva, alla formazione e alla valutazione autorizzata delle password.
@@ -19,7 +23,6 @@ Questo repository contiene un saggio tecnico e accademico dedicato a Hashcat e J
 
 ## Indice
 
-- [Copertina](#copertina)
 - [Informazioni sul documento](#informazioni-sul-documento)
 - [Abstract](#abstract)
 - [Parole chiave](#parole-chiave)
@@ -82,7 +85,9 @@ L'obiettivo è fornire una panoramica orientata alla sicurezza difensiva, alla f
 
 Il saggio completo è disponibile in formato PDF:
 
-[**Scarica il PDF**](./pdf/Saggio_Hashcat_John_the_Ripper_revisione.pdf)
+<p align="center">
+  <a href="./pdf/Saggio_Hashcat_John_the_Ripper_revisione.pdf"><strong>📄 Scarica il PDF</strong></a>
+</p>
 
 ## Documentazione
 
@@ -120,12 +125,7 @@ Il saggio completo è disponibile in formato PDF:
 
 Questo progetto ha finalità didattiche, accademiche e difensive.
 
-Hashcat e John the Ripper devono essere utilizzati esclusivamente:
-
-- su sistemi di propria proprietà;
-- in laboratori autorizzati;
-- durante attività di sicurezza formalmente approvate;
-- con account, hash e dati per i quali si possiede un'autorizzazione esplicita.
+Hashcat e John the Ripper devono essere utilizzati esclusivamente su sistemi di propria proprietà, in laboratori autorizzati, durante attività di sicurezza formalmente approvate e con account, hash e dati per i quali si possiede un'autorizzazione esplicita.
 
 Non devono essere utilizzati per accedere abusivamente a sistemi, recuperare credenziali di terzi o violare la privacy altrui.
 
@@ -133,12 +133,7 @@ Non devono essere utilizzati per accedere abusivamente a sistemi, recuperare cre
 
 Questo repository nasce con l'obiettivo di raccogliere e presentare in modo ordinato un saggio tecnico sull'analisi delle password e sul confronto tra due strumenti fondamentali nel campo della sicurezza informatica.
 
-L'intento non è fornire istruzioni per attacchi non autorizzati, ma offrire un contesto tecnico, metodologico e culturale utile per comprendere:
-
-- il funzionamento degli hash;
-- il ruolo del password auditing;
-- i vantaggi e i limiti di Hashcat e John the Ripper;
-- l'importanza di una sicurezza difensiva, responsabile e autorizzata.
+L'intento non è fornire istruzioni per attacchi non autorizzati, ma offrire un contesto tecnico, metodologico e culturale utile per comprendere il funzionamento degli hash, il ruolo del password auditing, i vantaggi e i limiti di Hashcat e John the Ripper e l'importanza di una sicurezza difensiva, responsabile e autorizzata.
 
 ## Autore
 
