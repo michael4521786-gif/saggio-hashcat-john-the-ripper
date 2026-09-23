@@ -11,6 +11,10 @@
   <img src="./assets/cover.png" alt="Cover image" width="520">
 </p>
 
+<p align="center">
+  <a href="./pdf/Saggio_Hashcat_John_the_Ripper_revisione.pdf"><img src="https://img.shields.io/badge/Download%20the%20PDF-Available-green.svg" alt="Download the PDF"></a>
+</p>
+
 ## Overview
 
 This repository contains a technical and academic essay about Hashcat and John the Ripper, with a focus on defensive security, education, and authorized password assessment.
@@ -82,7 +86,9 @@ The goal is to provide a defensive-security-oriented overview for education and 
 
 The complete essay is available in PDF format:
 
-[**Download the PDF**](./pdf/Saggio_Hashcat_John_the_Ripper_revisione.pdf)
+<p align="center">
+  <a href="./pdf/Saggio_Hashcat_John_the_Ripper_revisione.pdf"><strong>📄 Download the PDF</strong></a>
+</p>
 
 ## Documentation
 
@@ -120,12 +126,7 @@ The complete essay is available in PDF format:
 
 This project is intended for educational, academic, and defensive purposes.
 
-Hashcat and John the Ripper must be used only:
-
-- on systems you own;
-- in authorized laboratory environments;
-- during formally approved security activities;
-- on accounts, hashes, and data for which explicit authorization exists.
+Hashcat and John the Ripper must be used only on systems you own, in authorized laboratory environments, during formally approved security activities, and on accounts, hashes, and data for which explicit authorization exists.
 
 They must not be used to access systems improperly, recover others' credentials, or violate anyone's privacy.
 
@@ -133,12 +134,7 @@ They must not be used to access systems improperly, recover others' credentials,
 
 This repository was created to present, in an organized way, a technical essay about password analysis and a comparison of two important tools in the field of information security.
 
-The aim is not to provide instructions for unauthorized attacks, but to offer a technical, methodological, and educational context for understanding:
-
-- how hashes work;
-- the role of password auditing;
-- the strengths and limitations of Hashcat and John the Ripper;
-- the importance of responsible, authorized defensive security.
+The aim is not to provide instructions for unauthorized attacks, but to offer a technical, methodological, and educational context for understanding how hashes work, the role of password auditing, the strengths and limitations of Hashcat and John the Ripper, and the importance of responsible, authorized defensive security.
 
 ## Author
 
