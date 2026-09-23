@@ -95,6 +95,17 @@ Hashcat e John the Ripper devono essere utilizzati esclusivamente:
 
 Non devono essere utilizzati per accedere abusivamente a sistemi, recuperare credenziali di terzi o violare la privacy altrui.
 
+## Perché questo progetto
+
+Questo repository nasce con l'obiettivo di raccogliere e presentare in modo ordinato un saggio tecnico sull'analisi delle password e sul confronto tra due strumenti fondamentali nel campo della sicurezza informatica.
+
+L'intento non è fornire istruzioni per attacchi non autorizzati, ma offrire un contesto tecnico, metodologico e culturale utile per comprendere:
+
+- il funzionamento degli hash;
+- il ruolo del password auditing;
+- i vantaggi e i limiti di Hashcat e John the Ripper;
+- l'importanza di una sicurezza difensiva, responsabile e autorizzata.
+
 ## Autore
 
 **Vincenzo La Rocca**
