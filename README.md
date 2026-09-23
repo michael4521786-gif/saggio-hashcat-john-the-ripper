@@ -2,9 +2,32 @@
 
 [![Lingua](https://img.shields.io/badge/Lingua-Italiano-blue.svg)](./README.md)
 [![Documento](https://img.shields.io/badge/Documento-PDF-green.svg)](./pdf/Saggio_Hashcat_John_the_Ripper_revisione.pdf)
-[![Licenza](https://img.shields.io/badge/Licenza-CC%20BY--NC--SA%204.0-orange.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![Licenza](https://img.shields.io/badge/Licenza-CC%20BY--NC--SA%204.0-orange.svg)](./LICENSE)
 
 > Versione in inglese: [README_EN.md](./README_EN.md)
+
+## Panoramica
+
+Questo repository contiene un saggio tecnico e accademico dedicato a Hashcat e John the Ripper, con un'analisi orientata alla sicurezza difensiva, alla formazione e alla valutazione autorizzata delle password.
+
+> Uso responsabile: gli strumenti descritti devono essere utilizzati esclusivamente su sistemi, account e dati per i quali si possiede un'autorizzazione esplicita.
+
+## Indice
+
+- [Copertina](#copertina)
+- [Informazioni sul documento](#informazioni-sul-documento)
+- [Abstract](#abstract)
+- [Parole chiave](#parole-chiave)
+- [Contenuti](#contenuti)
+- [Documento completo](#documento-completo)
+- [Documentazione](#documentazione)
+- [Struttura del repository](#struttura-del-repository)
+- [Finalità e uso responsabile](#finalità-e-uso-responsabile)
+- [Perché questo progetto](#perché-questo-progetto)
+- [Autore](#autore)
+- [Licenza](#licenza)
+- [Supporta il progetto](#supporta-il-progetto)
+- [Citazione](#citazione)
 
 ## Copertina
 
@@ -22,6 +45,7 @@
 | **Lingua** | Italiano |
 | **Data** | 23 settembre 2026 |
 | **Tipologia** | Saggio tecnico e relazione accademica |
+| **Stato** | Pubblicato e disponibile per consultazione |
 
 ## Abstract
 
@@ -29,7 +53,7 @@ Questo saggio presenta Hashcat e John the Ripper, due strumenti ampiamente impie
 
 Il documento analizza il ruolo delle funzioni hash, le caratteristiche principali dei due strumenti, i possibili scenari di utilizzo e le differenze metodologiche e tecniche tra le due soluzioni.
 
-L'obiettivo è fornire una panoramica orientata alla sicurezza difensiva, alla formazione e alla valutazione autorizzata della robustezza delle password. L'utilizzo degli strumenti descritti deve avvenire esclusivamente su sistemi, account e dati per i quali si possiede un'autorizzazione esplicita.
+L'obiettivo è fornire una panoramica orientata alla sicurezza difensiva, alla formazione e alla valutazione autorizzata della robustezza delle password.
 
 ## Parole chiave
 
@@ -61,6 +85,15 @@ Il saggio completo è disponibile in formato PDF:
 
 [**Scarica il PDF**](./pdf/Saggio_Hashcat_John_the_Ripper_revisione.pdf)
 
+## Documentazione
+
+- [Abstract](./docs/abstract.md)
+- [Parole chiave](./docs/keywords.md)
+- [Metodologia](./docs/methodology.md)
+- [Copertina](./docs/cover.md)
+- [Bibliografia](./references/bibliography.md)
+- [Dati di citazione](./CITATION.cff)
+
 ## Struttura del repository
 
 ```text
@@ -68,6 +101,7 @@ Il saggio completo è disponibile in formato PDF:
 ├── README.md
 ├── README_EN.md
 ├── CITATION.cff
+├── LICENSE
 ├── .gitignore
 ├── docs/
 │   ├── abstract.md
@@ -117,6 +151,8 @@ Profilo GitHub: [@michael4521786-gif](https://github.com/michael4521786-gif)
 
 Il materiale documentale di questo repository è distribuito secondo i termini della licenza [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/), salvo diversa indicazione.
 
+Per i dettagli completi, consulta il file [LICENSE](./LICENSE).
+
 ## ☕ Supporta il progetto
 
 Se hai trovato utile questo progetto e desideri sostenerne lo sviluppo, puoi offrire un caffè tramite PayPal.
@@ -132,4 +168,4 @@ Se hai trovato utile questo progetto e desideri sostenerne lo sviluppo, puoi off
 
 ## Citazione
 
-Per citare questo lavoro è possibile utilizzare il file [`CITATION.cff`](./CITATION.cff).
+Per citare questo lavoro, consulta il file [`CITATION.cff`](./CITATION.cff).
