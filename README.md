@@ -102,6 +102,11 @@ Profilo GitHub: [michael4521786-gif](https://github.com/michael4521786-gif)
 Il materiale documentale di questo repository è distribuito secondo i
 termini della licenza
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/),
+
+--- ## ☕ Supporta il progetto Se hai trovato utile questo progetto e desideri sostenerne lo sviluppo, puoi
+offrire un caffè tramite Bitcoin. ### Indirizzo Bitcoin '''textbc1q54z58xnjlypcdynahf27t35avdep69xua2shds''' [₿ Invia una donazione Bitcoin](bitcoinbc1q54z58xnjlypcdynahf27t35avdep69xua2shds Grazie per il tuo supporto! --- ## ☕ Support the project If you found this project useful and would like to support its development, you
+can buy me a coffee with Bitcoin. ### Bitcoin address '''textbc1q54z58xnjlypcdynahf27t35avdep69xua2shds''' [₿ Send a Bitcoin donation](bitcoinbc1q54z58xnjlypcdynahf27t35avdep69xua2shds Thank you for your support! > **Nota / Note:** verifica sempre l'indirizzo prima di effettuare una
+> transazione. Le transazioni Bitcoin sono generalmente irreversibili.
 salvo diversa indicazione.
 
 ## Citazione
