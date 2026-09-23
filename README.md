@@ -6,7 +6,7 @@
 
 ## Copertina
 
-![Copertina del saggio](./assets/cover.png)
+![Copertina del saggio](./cover.png)
 
 ## Informazioni sul documento
 
