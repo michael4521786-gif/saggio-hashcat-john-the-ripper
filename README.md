@@ -1,8 +1,10 @@
 # Hashcat e John the Ripper: strumenti per il password auditing
 
-[![Lingua](https://img.shields.io/badge/lingua-italiano-blue.svg)](./docs/abstract.md)
-[![Documento](https://img.shields.io/badge/documento-PDF-green.svg)](./pdf/Saggio_Hashcat_John_the_Ripper_revisione.pdf)
-[![Licenza](https://img.shields.io/badge/licenza-CC%20BY--NC--SA%204.0-orange.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![Lingua](https://img.shields.io/badge/Lingua-Italiano-blue.svg)](./README.md)
+[![Documento](https://img.shields.io/badge/Documento-PDF-green.svg)](./pdf/Saggio_Hashcat_John_the_Ripper_revisione.pdf)
+[![Licenza](https://img.shields.io/badge/Licenza-CC%20BY--NC--SA%204.0-orange.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+> Versione in inglese: [README_EN.md](./README_EN.md)
 
 ## Copertina
 
@@ -23,7 +25,7 @@
 
 ## Abstract
 
-Questo saggio presenta Hashcat e John the Ripper, due strumenti ampiamente utilizzati nell'ambito del password auditing e della valutazione della sicurezza delle credenziali.
+Questo saggio presenta Hashcat e John the Ripper, due strumenti ampiamente impiegati nell'ambito del password auditing e della valutazione della sicurezza delle credenziali.
 
 Il documento analizza il ruolo delle funzioni hash, le caratteristiche principali dei due strumenti, i possibili scenari di utilizzo e le differenze metodologiche e tecniche tra le due soluzioni.
 
@@ -64,6 +66,7 @@ Il saggio completo è disponibile in formato PDF:
 ```text
 .
 ├── README.md
+├── README_EN.md
 ├── CITATION.cff
 ├── .gitignore
 ├── docs/
@@ -94,7 +97,8 @@ Non devono essere utilizzati per accedere abusivamente a sistemi, recuperare cre
 
 ## Autore
 
-**Vincenzo La Rocca**  
+**Vincenzo La Rocca**
+
 Profilo GitHub: [@michael4521786-gif](https://github.com/michael4521786-gif)
 
 ## Licenza
@@ -114,22 +118,6 @@ bc1q54z58xnjlypcdynahf27t35avdep69xua2shds
 [₿ Invia una donazione Bitcoin](bitcoin:bc1q54z58xnjlypcdynahf27t35avdep69xua2shds)
 
 Grazie per il tuo supporto!
-
-## ☕ Support the project
-
-If you found this project useful and would like to support its development, you can buy me a coffee with Bitcoin.
-
-**Bitcoin address**
-
-```text
-bc1q54z58xnjlypcdynahf27t35avdep69xua2shds
-```
-
-[₿ Send a Bitcoin donation](bitcoin:bc1q54z58xnjlypcdynahf27t35avdep69xua2shds)
-
-Thank you for your support!
-
-> **Nota / Note:** verifica sempre l'indirizzo Bitcoin prima di effettuare una transazione. Le transazioni Bitcoin sono generalmente irreversibili.
 
 ## Citazione
 
