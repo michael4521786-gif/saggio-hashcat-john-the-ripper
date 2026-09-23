@@ -112,10 +112,10 @@ If you found this project useful and would like to support its development, you 
 **Bitcoin address**
 
 ```text
-bc1q54z58xnjlypcdynahf27t35avdep69xua2shds
+bc1qq7yj4sru9zrda613uz56mt6sr9qcw7584ae3eg
 ```
 
-[₿ Send a Bitcoin donation](bitcoin:bc1q54z58xnjlypcdynahf27t35avdep69xua2shds)
+[₿ Send a Bitcoin donation](bitcoin:bc1qq7yj4sru9zrda613uz56mt6sr9qcw7584ae3eg)
 
 Thank you for your support!
 
